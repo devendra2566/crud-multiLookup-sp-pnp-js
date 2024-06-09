@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "entrance-exams",
+    "libraryId": "4c32c116-2ed8-4225-a8c0-c5edca38b554",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "EntranceExams",
+    "solutionShortDescription": "EntranceExams description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
